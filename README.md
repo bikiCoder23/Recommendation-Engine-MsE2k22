@@ -28,7 +28,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 2. Install all the libraries mentioned in the [requirements.txt] file with the command `pip install -r requirements.txt`
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 3. Replace YOUR_API_KEY in line no. 8 of `main.py` file and hit save.
-4. Generate similarity.pkl file by running movie-recommender-engine.ipynb file in jupyter notebook and copy this file into the project directory.
+4. Generate similarity.pkl file by running movie-recommender-engine.ipynb file in jupyter notebook from anaconda navigator and copy this file into the project directory. TO download anaconda follow https://www.anaconda.com/
 6. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `streamlit run main.py`.
 7. Go to your browser and type `http://localhost:8501` in the address bar.
 8. Hurray! That's it.
